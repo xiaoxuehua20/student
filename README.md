@@ -1,5 +1,6 @@
 # 介绍
 主体 class.py
+需有python3.9及以上版本
 python学生管理系统，命令行式
 可查看、创建、更改删除学生信息
 存储到Sudent.txt中
