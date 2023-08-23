@@ -1,4 +1,8 @@
-# student
+# 介绍
+主体 class.py
 python学生管理系统，命令行式
-运行 class.py
+可查看、创建、更改删除学生信息
+存储到Sudent.txt中
+另带ID、科目
+# 最后
 最后的《放学后》是小说，挺好看的
